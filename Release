@@ -1,8 +1,0 @@
-Origin: OctoFry Repo
-Label: OcotFry Repo
-Suite: Stable
-Version: 1.0
-codename: ios
-Architectures: iphoneos-arm
-components: main
-Description: Personal Repo
