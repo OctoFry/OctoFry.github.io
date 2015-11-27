@@ -1,0 +1,8 @@
+Package: com.octofry.Sassy9-BETA
+Name: Sassy9-BETA
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Beta Theme
+Maintainer: OctoFry
+Author: Unknown
+Selection: Themes(Springboard)
